@@ -2,4 +2,4 @@
 SkyView Mind map report
 
 
-[docs](docs/index.html)
+[docs](index.html)
