@@ -1,8 +1,6 @@
 # skyview-report
-SkyView Mind map report
 
-
-[docs](index.html)
+[SkyView Mind map report](https://mephisto83.github.io/skyview-report/)
 
 
 # skyview-propsal
