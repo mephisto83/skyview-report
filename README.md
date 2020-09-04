@@ -8,7 +8,7 @@ SkyView Mind map report
 # skyview-propsal
 
 ## Overview
-The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrates "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
+The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrate "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
 
 
  ![Timeline](timeline.png)
@@ -21,6 +21,8 @@ The purpose of this document is to describe a high level view of the requirement
     - 52 weeks
 - Phase 3
     - 52 weeks
+
+Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Phase 2 and 3, but the estimates are calculated by the number of people hours. So, if there are 2 developers 52 weeks would become 26 weeks. As the number of people working on a phase increases there is a diminishing return on each person contributing to the work. It is not possible at this point to say the perfect optimal number for a team, but 6 is generally a good place to start.
 
 ## Phases
 
