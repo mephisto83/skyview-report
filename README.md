@@ -13,7 +13,7 @@ There is no current implementation of the desired features. The current state of
 
 ## Target Status
 
-A MVP is the goal. The MVP would be able to connect wealth managers, banks, end users and a 3rd party banking platform. The banking services would be available to interested par
+The target goal is to reach an MVP product. The MVP would be able to connect wealth managers, banks, end users and a 3rd party banking platform. The banking services would be available to interested parties. Also, wealth managers will be able to customize the theme of the application for their "customers".
 
 ## Overview
 The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrate "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
