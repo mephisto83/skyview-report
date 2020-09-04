@@ -7,6 +7,14 @@ SkyView Mind map report
 
 # skyview-propsal
 
+## Current Status
+
+There is no current implementation of the desired features. The current state of the mind map is at about 25% completion.
+
+## Target Status
+
+A MVP is the goal. The MVP would be able to connect wealth managers, banks, end users and a 3rd party banking platform. The banking services would be available to interested par
+
 ## Overview
 The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrate "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
 
@@ -47,7 +55,7 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
                 - The steps to perform the feature's action.
         - This phase doesn't include specifying the exact 3rd party services that will be attached to the system.
             - Services aren't specified exactly, because the banking platform is unknown and/or the banking platform's features are not known.
-        - Changes to the specification are possible through Phase 0 and Phase 1. Once Phase 2 is reached a new specification will need to be made for unspecified features, e.g. features relying on 3rd integrations.
+        - Changes to the specification are possible through Phase 0 and Phase 1. Once Phase 2 is reached a new specification will need to be made for unspecified features, e.g. features relying on 3rd party integrations.
 -   Phase 1 (estimated: 500,000)
     - Basic UI/UX
         - 
