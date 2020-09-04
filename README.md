@@ -45,7 +45,7 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
                 - The checks done to the require items to perform the action.
             - Executions
                 - The steps to perform the feature's action.
-        - This phase doesn't include specifying the exact services that will be attached to the system.
+        - This phase doesn't include specifying the exact 3rd party services that will be attached to the system.
             - Services aren't specified exactly, because the banking platform is unknown and/or the banking platform's features are not known.
         - Changes to the specification are possible through Phase 0 and Phase 1. Once Phase 2 is reached a new specification will need to be made for unspecified features, e.g. features relying on 3rd integrations.
 -   Phase 1 (estimated: 500,000)
