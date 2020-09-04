@@ -11,12 +11,7 @@ SkyView Mind map report
 The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. A the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phases boundaries illustrates "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. A sprint is typically around 2 weeks of work.
 
 
-<div style="width:100%;height:40px;display:flex;flex:1;align-items:center;margin-bottom:3rem;margin-top:3rem;">
-    <div title="Phase 0(2 sprints)" style="font-weight:bold;background-color:red;flex:1;color:white;padding:1em;">&nbsp; Phase 0</div>
-    <div title="Phase 1(2 sprints)" style="font-weight:bold;background-color:blue;;flex:1;;color:white;padding:1em">&nbsp;Phase 1</div>
-    <div title="Phase 2(26 sprints)" style="font-weight:bold;background-color:purple;flex:6;color:white;padding:1em;">&nbsp;Phase 2</div>
-    <div title="Phase 3(26 sprints)" style="font-weight:bold;background-color:orange;flex:6;color:white;padding:1em;">&nbsp;Phase 3</div>
-</div>
+ ![Timeline](timeline.png)
 
 - Phase 0
     - 2 sprints
