@@ -11,7 +11,7 @@ There is no current implementation of the desired features. The current state of
 
 ## Target Status
 
-The target goal is to reach an MVP product. The MVP would be able to connect wealth managers, banks, end users and a 3rd party banking platform. The banking services would be available to interested parties. Also, wealth managers will be able to customize the theme of the application for their "customers".
+The target goal is to reach an MVP product. The MVP would be able to connect wealth managers, banks, end users and a 3rd party banking platform. The banking services would be available to interested parties. Also, wealth managers will be able to customize the theme of the application for their "customers". This goal would be reached at the completion of Phase 3.
 
 ## Overview
 The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrate "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
@@ -32,7 +32,7 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
 
 ## Phases
 
--   Phase 0 (20,000)
+-   Phase 0 ($40,000.00 USD)
     - Mind map [skyview-report](https://mephisto83.github.io/skyview-report/)
         - Creating a specification of the requirements of the site/service backend.
             - This will describe the basic functionality of the system management processes and features.
@@ -54,7 +54,7 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
         - This phase doesn't include specifying the exact 3rd party services that will be attached to the system.
             - Services aren't specified exactly, because the banking platform is unknown and/or the banking platform's features are not known.
         - Changes to the specification are possible through Phase 0 and Phase 1. Once Phase 2 is reached a new specification will need to be made for unspecified features, e.g. features relying on 3rd party integrations.
--   Phase 1 (estimated: 500,000)
+-   Phase 1 (estimated: $500,000.00 USD)
     - Basic UI/UX
         - 
         - UI/UX will be functional, but it will not be tuned with end-user ergonomics. UI/UX optimizations come in Phase 2. 
@@ -66,6 +66,8 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
         - [Swagger](https://swagger.io/)
 -   Phase 2 (unknown)
     - Required roles
+        - Chief Technical Officer
+            - Andrew Porter
         - Architect
         - Senior Software Engineer
         - Software Engineer (2x)
@@ -89,6 +91,8 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
 -   Phase 3 (unknown)
     - This phase is geared towards getting the MVP to the public.
     - Required Roles
+        - Chief Technical Officer
+            - Andrew Porter
         - Dev Ops
             - Architect
             - Devops Engineer (2x)
@@ -106,3 +110,7 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
         - Creating and running tests for testing the system as it relates to 3rd party resources and services. 
     - Environmental Logging
         - Logging data related to the enviroments in which the systems are running. Keeping track of errors, transient or otherwise, and triaging issues to be handled by the development team.
+
+## Next Steps
+
+If this is generally agreeable, a terms sheet will be drawn up for your consideration. Then a proper contract for the prescribed services.
