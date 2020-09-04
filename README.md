@@ -8,19 +8,19 @@ SkyView Mind map report
 # skyview-propsal
 
 ## Overview
-The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. A the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phases boundaries illustrates "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. A sprint is typically around 2 weeks of work.
+The purpose of this document is to describe a high level view of the requirements for the project management and execution of a new sky view app. At the time of this writing, there are 4 phases. These phases encapsulate the boundaries of the project. At each phase, the boundaries illustrates "safe" places where exiting is optional. So when moving from one phase to the next, a decision to continue the process can be made with an understanding that work can pause or discontinue. 
 
 
  ![Timeline](timeline.png)
 
 - Phase 0
-    - 2 sprints
+    - 4 weeks
 - Phase 1
-    - 2 sprints
+    - 4 weeks
 - Phase 2
-    - 26 sprints
+    - 52 weeks
 - Phase 3
-    - 26 sprints
+    - 52 weeks
 
 ## Phases
 
@@ -36,7 +36,7 @@ The purpose of this document is to describe a high level view of the requirement
                     - Specifying what models inside the system can be read/manipulated by users with this type of agent.
                 -   Sky View Users
                     - Specifying what models inside the system can be read/manipulated by users with this type of agent.
-        - The mind map provide a specification of
+        - The mind map provides a specification of
             - Permissions
                 - Specifies the requirements imposed on the agent for executing the action.
             - Validations
@@ -55,7 +55,7 @@ The purpose of this document is to describe a high level view of the requirement
             - Deskop App
             - Native Mobile App
     - Documentation of APIs
--   Phase 2
+-   Phase 2 (unknown)
     - Required roles
         - Architect
         - Senior Software Engineer
@@ -77,7 +77,7 @@ The purpose of this document is to describe a high level view of the requirement
     -   Banking Platform integration
         - A banking platform would be integrated into the system. The platforms available services would dictact the types of transactions/services that would be available for implementation for each Banking Client.
             - Before this phase can begin there needs to be a list of desired features that can exercised in the 3rd party banking platform.
--   Phase 3
+-   Phase 3 (unknown)
     - This phase is geared towards getting the MVP to the public.
     - Required Roles
         - Dev Ops
