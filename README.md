@@ -34,6 +34,16 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
 
 -   Phase 0 ($40,000.00 USD)
     - Mind map 
+        - Benefits:
+            - You get a document specifying your applications features.
+                - What does the mind map tell me?
+                    -   The mind map provides a specification of
+                            - Permissions
+                                - Specifies the requirements imposed on the agent for executing the action.
+                            - Validations
+                                - The checks done to the require items to perform the action.
+                            - Executions
+                                - The steps to perform the feature's action.
         - Creating a specification of the requirements of the site/service backend.
             - [skyview-report](https://mephisto83.github.io/skyview-report/)
                 - This is the output of Phase 0.
@@ -46,13 +56,6 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
                     - Specifying what models inside the system can be read/manipulated by users with this type of agent.
                 -   Sky View Users
                     - Specifying what models inside the system can be read/manipulated by users with this type of agent.
-        - The mind map provides a specification of
-            - Permissions
-                - Specifies the requirements imposed on the agent for executing the action.
-            - Validations
-                - The checks done to the require items to perform the action.
-            - Executions
-                - The steps to perform the feature's action.
         - This phase doesn't include specifying the exact 3rd party services that will be attached to the system.
             - Services aren't specified exactly, because the banking platform is unknown and/or the banking platform's features are not known.
         - Changes to the specification are possible through Phase 0 and Phase 1. Once Phase 2 is reached a new specification will need to be made for unspecified features, e.g. features relying on 3rd party integrations.
@@ -64,8 +67,16 @@ Phase 2 and 3 can be run simultaneously. The estimates are rough at best for Pha
         - UI/UX will be functional, but it will not be tuned with end-user ergonomics. UI/UX optimizations come in Phase 2. 
         - UI Interfaces that will exist upon Phase 1 completion.
             - Web Application
+                - All evergreen browsers.
+                    - Chrome
+                    - Firefox
+                    - Edge
             - Deskop Application
+                - Mac
+                - Windows 10+
             - Native Mobile Application
+                - Android
+                - IOS
     - Documentation of Application Programming Interface("API")
         - [Swagger](https://swagger.io/)
             - TLDR; There will be a webpage that shows the application's web interface in a developer friendly format.
